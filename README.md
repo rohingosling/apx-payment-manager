@@ -24,7 +24,7 @@ The APX Payment Manager project offers a suite of applications that can be used 
 ## User Interface Samples
 
 <p>
-  <img src="assets/images/screenshots/image-2.png" alt="New Payment Schedule dialog, with debug panel" width="45%" /> &nbsp; <img src="assets/images/screenshots/image-3.png" alt="New Payment Schedule dialog" width="45%" />
+  <img src="assets/images/screenshots/image-2.png" alt="New Payment Schedule dialog, with debug panel" width="45%" align="top" /> &nbsp; <img src="assets/images/screenshots/image-3.png" alt="New Payment Schedule dialog" width="45%" align="top" />
 </p>
 
 ## Status
